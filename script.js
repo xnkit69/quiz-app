@@ -88,7 +88,7 @@ const questions = [
   {
     question: 'Is web development fun?',
     answers: [
-      { text: 'Kind', correct: false },
+      { text: 'Kinda', correct: false },
       { text: 'YES!!!', correct: true },
       { text: 'Um no', correct: false },
       { text: 'IDK', correct: false }
